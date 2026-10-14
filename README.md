@@ -50,6 +50,3 @@
 
 ###
 
-<h3 data-importer="text" align="left">𝗦𝗧𝗔𝗧𝗦:</h3>
-
-###
